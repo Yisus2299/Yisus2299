@@ -67,8 +67,8 @@ CRUD system for official procedures. Built as my B.Sc. thesis and currently in u
 
 ### 💊 [Pharmacy Management System](https://github.com/tuusuario/pharmacy-system)
 *PHP • MySQL • Bootstrap*  
-Academic project (4 years ago) for inventory and sales management. Basic CRUD, user roles, and reports.  
-→ *Legacy code that I keep as a reminder of where I started.*
+An academic project focused on inventory and sales management. Implements core CRUD operations, user roles, and report generation. Built as part of my early training to master backend logic and database integration. 
+→ *Solid foundation in PHP + MySQL fundamentals.*
 
 > **🔒 Professional experience:** I've worked for an Australian company (8 months) and a Latin American firm (1+ year). Due to confidentiality agreements, I can't share the code, but I can elaborate on my role, decisions, and outcomes during interviews.
 
