@@ -94,4 +94,3 @@ I'm actively looking for **remote, English-speaking roles in Europe** (junior/en
 ⭐ *"I don't remember everything, but I know how to find it, learn it, and apply it."*
 
 ---
-*README inspired by best practices from the GitHub community. Last update: June 2026*
