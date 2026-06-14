@@ -86,8 +86,8 @@ An academic project focused on inventory and sales management. Implements core C
 I'm actively looking for **remote, English-speaking roles in Europe** (junior/entry-level). If you have an opportunity or just want to chat about tech, reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://tuportafolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmzm08@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://Yisus2299.github.io)
 
 ---
 
