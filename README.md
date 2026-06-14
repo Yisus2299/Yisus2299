@@ -55,20 +55,20 @@ Universidad Nacional Experimental de los Llanos Centrales "UNERG", Venezuela.
 
 <img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-### 🐍 [100 Days of Python – 80 Projects](https://github.com/tuusuario/100-days-python)
+### 🐍 [100 Days of Python – 80 Projects](https://github.com/Yisus2299/Python-Course.git)
 *Python • Flask • APIs • Selenium • Data Scraping*  
-**80+ projects** organized, documented, and fully functional. From console games to web apps and automation scripts.  
+**80+ projects** organized, documented, and fully functional. From console games to web apps and automation scripts.
 → *This is my technical gym: logic, problem-solving, and best practices.*
 
-### 📋 [Document Tracking System — Thesis • Live Implementation](https://github.com/tuusuario/tracking-system)
+### 📋 [Document Tracking System — Thesis • Live Implementation](https://github.com/Yisus2299/sistematramite.git)
 *PHP • MySQL • Bootstrap • JS*  
-CRUD system for official procedures. Built as my B.Sc. thesis and currently in use by a real organization. Includes modern UI, search/filters, and security hardening. I provide ongoing maintenance and updates on demand.  
+CRUD system for official procedures. Built as my B.Sc. thesis and currently in use by a real organization. Includes modern UI, search/filters, and security hardening. I provide ongoing maintenance and updates on demand. 
 → *From university research to production.*
 
-### 💊 [Pharmacy Management System](https://github.com/tuusuario/pharmacy-system)
+### 💊 [Pharmacy Management System](https://github.com/Yisus2299/sistema_farmacia.git)
 *PHP • MySQL • Bootstrap*  
 An academic project focused on inventory and sales management. Implements core CRUD operations, user roles, and report generation. Built as part of my early training to master backend logic and database integration. 
-→ *Solid foundation in PHP + MySQL fundamentals.*
+→ *→ Early academic work demonstrating core web development concepts.*
 
 > **🔒 Professional experience:** I've worked for an Australian company (8 months) and a Latin American firm (1+ year). Due to confidentiality agreements, I can't share the code, but I can elaborate on my role, decisions, and outcomes during interviews.
 
