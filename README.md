@@ -60,10 +60,10 @@ Universidad Nacional Experimental de los Llanos Centrales "UNERG", Venezuela.
 **80+ projects** organized, documented, and fully functional. From console games to web apps and automation scripts.  
 → *This is my technical gym: logic, problem-solving, and best practices.*
 
-### 📋 [Document Tracking System](https://github.com/tuusuario/tracking-system)
+### 📋 [Document Tracking System — Thesis • Live Implementation](https://github.com/tuusuario/tracking-system)
 *PHP • MySQL • Bootstrap • JS*  
-Complete CRUD system for managing official procedures. **Updated version** with modern UI, search/filters, and security improvements (prepared statements, input validation).  
-→ *Real-world system that shows I can maintain and evolve a project.*
+CRUD system for official procedures. Built as my B.Sc. thesis and currently in use by a real organization. Includes modern UI, search/filters, and security hardening. I provide ongoing maintenance and updates on demand.  
+→ *From university research to production.*
 
 ### 💊 [Pharmacy Management System](https://github.com/tuusuario/pharmacy-system)
 *PHP • MySQL • Bootstrap*  
