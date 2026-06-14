@@ -19,10 +19,10 @@ I'm a Software Engineer (23) with 2+ years of professional experience in interna
 - 🌍 **Languages:**  
   - English (fluent, C1) — *Professional working proficiency.* 
   - Spanish (native).
-- 🧠 **Always learning:** I use AI tools as learning assistants, but I make sure to understand **every line of code** I write.
-- 🎓 **Education:** B.Sc. in Computer Engineering.
-- 💡 **Fun fact:** I'm afraid of not finding a good job, but I'm working hard to make that fear unfounded. 😅
-
+- 🧠 **Always learning:** I believe that good code comes from real understanding, not memorization. That's why I always dig deeper until the logic is clear.
+- 🎓 **Education:** Bachelor of Science in Computer Engineering — Completed.
+Universidad Nacional Experimental de los Llanos Centrales "UNERG", Venezuela.
+- 💡 **Fun fact:** I love understanding how things work under the hood — from compilers to databases.
 
 
 ---
