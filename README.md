@@ -8,17 +8,16 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-I'm a **Software Engineer** (23) with **2+ years of professional experience** in international teams (Australia • Latin America). I build practical, maintainable code and I'm currently deep-diving into **Python** through the "100 Days of Code" bootcamp — 80+ projects and counting.
+I'm a Software Engineer (23) with 2+ years of professional experience in international teams (Australia • Latin America). I build practical, maintainable code. I've completed the "100 Days of Code: Python" bootcamp — 80+ projects, from automation scripts to web apps.
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🎯 **Currently:** Mastering Python, automation, and backend development.
 - 💼 **Background:** 
-  - 🇦🇺 Full Stack Engineer at an Australian company (React • Node.js • PostgreSQL).
-  - 🌎 Backend Developer at a Latin American company (PHP • JavaScript • Node.js).
+  - 🇦🇺 **Sintelix** (Australia) — Application Configurator. Proprietary language + JavaScript.
+  - 🌎 **Lumentrack** (Latin America) — Full Stack & Database Administrator. PostgreSQL + Frontend + Backend collaboration.
 - 🌍 **Languages:**  
-  - English (fluent, C1/C2) — *Professional working proficiency.*  
-  - French (intermediate, B1).  
+  - English (fluent, C1) — *Professional working proficiency.* 
   - Spanish (native).
 - 🧠 **Always learning:** I use AI tools as learning assistants, but I make sure to understand **every line of code** I write.
 - 🎓 **Education:** B.Sc. in Computer Engineering.
