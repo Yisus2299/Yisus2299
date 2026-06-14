@@ -14,8 +14,8 @@ I'm a Software Engineer (23) with 2+ years of professional experience in interna
 
 - 🎯 **Currently:** Mastering Python, automation, and backend development.
 - 💼 **Background:** 
-  - 🇦🇺 **Sintelix** (Australia) — Application Configurator. Proprietary language + JavaScript.
-  - 🌎 **Lumentrack** (Latin America) — Full Stack & Database Administrator. PostgreSQL + Frontend + Backend collaboration.
+  - 🇦🇺 **[Sintelix](https://sintelix.com/)** (Australia) — Application Configurator. Learned to work with a **proprietary DSL** for high-stakes intelligence analysis, plus JavaScript for frontend logic.
+  - 🌎 **[Lumentrack](https://www.lumentrack.com/)** (Latin America) — Full Stack & Database Administrator. **Designed PostgreSQL databases from scratch**, built Frontend features, and collaborated with Backend engineers to understand the **entire business platform**.
 - 🌍 **Languages:**  
   - English (fluent, C1) — *Professional working proficiency.* 
   - Spanish (native).
