@@ -25,6 +25,7 @@ Universidad Nacional Experimental de los Llanos Centrales "UNERG", Venezuela.
 - 💡 **Fun fact:** I love understanding how things work under the hood — from compilers to databases.
 
 
+
 ---
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
