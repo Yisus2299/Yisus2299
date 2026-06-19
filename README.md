@@ -2,7 +2,7 @@
 
 ### 🇻🇪 Software Engineer | Python • React • Node • PHP • Javascript
 
-*Fluent in English / C1 |  | Native Spanish Speaker*
+*Fluent in English Advanced / C1 |  | Native Spanish Speaker*
 
 ---
 
