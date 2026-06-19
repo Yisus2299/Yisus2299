@@ -85,10 +85,10 @@ An academic project focused on inventory and sales management. Implements core C
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **remote, English-speaking roles** (junior/entry-level). If you have an opportunity or just want to chat about tech, reach out!
+I'm currently seeking **remote Software Engineering roles** in English-speaking teams where I can contribute with my experience in full-stack development, database design, and process automation. I'm passionate about building clean, efficient code that solves real-world problems. Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmzm08@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imzm08@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yisus2299)
 
 ---
