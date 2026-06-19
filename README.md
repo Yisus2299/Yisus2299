@@ -16,6 +16,7 @@ I'm a Software Engineer (23) with 2+ years of professional experience in interna
 - 💼 **Background:** 
   - 🇦🇺 **[Sintelix](https://sintelix.com/)** (Australia) — Application Configurator. Learned to work with a **proprietary DSL** for high-stakes intelligence analysis, plus JavaScript for frontend logic.
   - 🌎 **[Lumentrack](https://www.lumentrack.com/)** (Latin America) — Full Stack & Database Administrator. **Designed PostgreSQL databases from scratch**, built Frontend features, and collaborated with Backend engineers to understand the **entire business platform**.
+  - 🛠️ **Freelance Technical Consultant** — Maintained systems and optimized databases for local businesses and a mayoralty.
 - 🌍 **Languages:**  
   - English (fluent, C1) — *Professional working proficiency.* 
   - Spanish (native).
@@ -58,12 +59,12 @@ Universidad Nacional Experimental de los Llanos Centrales "UNERG", Venezuela.
 
 ### 🐍 [100 Days of Python – 80 Projects](https://github.com/Yisus2299/Python-Course.git)
 *Python • Flask • APIs • Selenium • Data Scraping*  
-**80+ projects** organized, documented, and fully functional. From console games to web apps and automation scripts.
+**Developed practical solutions from the '100 Days of Code' course, including web scraping, email automation, Flask web apps, and data analysis. Organized on GitHub with comprehensive English documentation.
 → *This is my technical gym: logic, problem-solving, and best practices.*
 
 ### 📋 [Document Tracking System — Thesis • Live Implementation](https://github.com/Yisus2299/sistematramite.git)
 *PHP • MySQL • Bootstrap • JS*  
-CRUD system for official procedures. Built as my B.Sc. thesis and currently in use by a real organization. Includes modern UI, search/filters, and security hardening. I provide ongoing maintenance and updates on demand. 
+Real-world Impact: Officially adopted and implemented as the management control platform at the Juan Germán Roscio Mayoralty. 
 → *From university research to production.*
 
 ### 💊 [Pharmacy Management System](https://github.com/Yisus2299/sistema_farmacia.git)
@@ -84,7 +85,7 @@ An academic project focused on inventory and sales management. Implements core C
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **remote, English-speaking roles in Europe** (junior/entry-level). If you have an opportunity or just want to chat about tech, reach out!
+I'm actively looking for **remote, English-speaking roles** (junior/entry-level). If you have an opportunity or just want to chat about tech, reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmzm08@gmail.com)
