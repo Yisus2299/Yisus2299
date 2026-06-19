@@ -26,8 +26,8 @@ Universidad Nacional Experimental de los Llanos Centrales "UNERG", Venezuela.
 - 💡 **Fun fact:** I love understanding how things work under the hood — from compilers to databases.
 
 
-
 ---
+## 🛠️ Tech Stack
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
