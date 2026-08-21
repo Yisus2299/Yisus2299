@@ -2,7 +2,7 @@
 
 ### 🇻🇪 Software Engineer | Python • React • Node • PHP • Javascript
 
-*Fluent in English Advanced / C2 |  | Native Spanish Speaker*
+*Fluent in English Advanced / C1 |  | Native Spanish Speaker*
 
 ---
 
@@ -18,7 +18,7 @@ I'm a Software Engineer (23) with 2+ years of professional experience in interna
   - 🌎 **[Lumentrack](https://www.lumentrack.com/)** (Latin America) — Full Stack & Database Administrator. **Designed PostgreSQL databases from scratch**, built Frontend features, and collaborated with Backend engineers to understand the **entire business platform**.
   - 🛠️ **Freelance Technical Consultant** — Maintained systems and optimized databases for local businesses and a mayoralty.
 - 🌍 **Languages:**  
-  - English (fluent, C1) — *Professional working proficiency.* 
+  - English (Advanced, C1) — *Professional working proficiency.* 
   - Spanish (native).
 - 🧠 **Always learning:** I believe that good code comes from real understanding, not memorization. That's why I always dig deeper until the logic is clear.
 - 🎓 **Education:** Bachelor of Science in Computer Engineering — Completed.
