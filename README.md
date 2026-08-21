@@ -72,7 +72,7 @@ Real-world Impact: Officially adopted and implemented as the management control 
 Built a personalized recommendation engine integrating multiple external APIs (TMDB, Spotify, Steam) to suggest movies, music, series, and games based on user preferences. Preference-based matching algorithm, trending/explore endpoints, and intelligent search across multimedia content types 
 → *Personalized multimedia discovery service leveraging external API integrations, structured filtering algorithms, and containerized deployment.*
 
-> **🔒 Professional experience:** I've worked for an Australian company (8 months) and a Latin American firm (1+ year). Due to confidentiality agreements, I can't share the code, but I can elaborate on my role, decisions, and outcomes during interviews.
+> **🔒 Enterprise & Production Work: Experienced in building scalable systems for international companies (Australia & USA/LatAm). While my commercial codebase remains confidential under NDAs, I’m always happy to walk through my system architecture design, technical decisions, and measurable outcomes during technical interviews.
 
 ---
 
