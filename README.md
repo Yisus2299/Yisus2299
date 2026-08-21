@@ -14,7 +14,7 @@ I'm a Software Engineer (23) with 2+ years of professional experience in interna
 
 - 🎯 **Currently:** Mastering Python, automation, and backend development.
 - 💼 **Background:** 
-  - 🇦🇺 **[Sintelix](https://sintelix.com/)** (Australia) — Application Configurator. Learned to work with a **proprietary DSL** for high-stakes intelligence analysis, plus JavaScript for frontend logic.
+  - 🇦🇺 **[Sintelix](https://sintelix.com/)** (Australia) — Application Configurator. Learned to work with a **proprietary DSL** for high-stakes intelligence analysis and JavaScript for frontend logic.
   - 🌎 **[Lumentrack](https://www.lumentrack.com/)** (Latin America) — Full Stack & Database Administrator. **Designed PostgreSQL databases from scratch**, built Frontend features, and collaborated with Backend engineers to understand the **entire business platform**.
   - 🛠️ **Freelance Technical Consultant** — Maintained systems and optimized databases for local businesses and a mayoralty.
 - 🌍 **Languages:**  
@@ -67,10 +67,10 @@ Universidad Nacional Experimental de los Llanos Centrales "UNERG", Venezuela.
 Real-world Impact: Officially adopted and implemented as the management control platform at the Juan Germán Roscio Mayoralty. 
 → *From university research to production.*
 
-### 💊 [Pharmacy Management System](https://github.com/Yisus2299/sistema_farmacia.git)
-*PHP • MySQL • Bootstrap*  
-An academic project focused on inventory and sales management. Implements core CRUD operations, user roles, and report generation. Built as part of my early training to master backend logic and database integration. 
-→ *→ Early academic work demonstrating core web development concepts.*
+### 💻 [MediaMind - Content Recommendation Platform](https://github.com/Yisus2299/MediaMind.git)
+*Python • FastAPI • Docker • PostgreSQL*  
+Built a personalized recommendation engine integrating multiple external APIs (TMDB, Spotify, Steam) to suggest movies, music, series, and games based on user preferences. Preference-based matching algorithm, trending/explore endpoints, and intelligent search across multimedia content types 
+→ *Personalized multimedia discovery service leveraging external API integrations, structured filtering algorithms, and containerized deployment.*
 
 > **🔒 Professional experience:** I've worked for an Australian company (8 months) and a Latin American firm (1+ year). Due to confidentiality agreements, I can't share the code, but I can elaborate on my role, decisions, and outcomes during interviews.
 
